@@ -1,2 +1,2 @@
-Expense tracker web app (In progress)
- - Next step is to add AI financial assistance
+#Expense tracker web app (In progress)
+Next step is to add AI financial assistance
